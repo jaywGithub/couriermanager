@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment6</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_manage_employees">ManageEmployeesActivity</string>
+</resources>
